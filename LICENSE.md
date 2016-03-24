@@ -1,10 +1,8 @@
 ##SparkFlame License Information
-===============================
 
 SparkFlame uses different licenses for its file - one for hardware and one for code.
 
 ###Software
----------
 
 **SparkFlame code, firmware, and software is released under the MIT License(http://opensource.org/licenses/MIT).**
 
@@ -31,7 +29,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ###Hardware
----------
 
 **SparkFlame hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
